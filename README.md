@@ -227,3 +227,12 @@ By following this documentation, you’ll understand each **component** of the p
 
 **In summary:**  
 Your project harnesses GPT-5’s advanced reasoning, contextual understanding, and adaptive generation to create a realistic, interactive training environment for emergency dispatchers—delivering both challenging simulations and
+
+**Project Snapshots**
+
+![Login page](jigyasa-AI/login.png)
+![Welcome Page](jigyasa-AI/welcome_page.png)
+![Simulation_Types](jigyasa-AI/Simulation_types.png)
+
+
+
