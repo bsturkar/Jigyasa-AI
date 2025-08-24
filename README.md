@@ -230,9 +230,9 @@ Your project harnesses GPT-5’s advanced reasoning, contextual understanding, a
 
 **Project Snapshots**
 
-![Login page](./Project_snapshots/login.png)
-![Welcome Page](./Project_snapshots/welcome_page.png)
-![Simulation Types](./Project_snapshots/Simulation_types.png)
 
+![Login page](https://github.com/bsturkar/Jigyasa-AI/blob/main/Project_snapshots/login.PNG)
+![Welcome Page](https://github.com/bsturkar/Jigyasa-AI/blob/main/Project_snapshots/welcome_page.PNG)
+![Simulation Types](https://github.com/bsturkar/Jigyasa-AI/blob/main/Project_snapshots/Simulation_types.PNG)
 
 
